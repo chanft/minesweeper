@@ -1,0 +1,4 @@
+enum Item {
+  none,
+  mine,
+}
